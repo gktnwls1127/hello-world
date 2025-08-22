@@ -19,3 +19,17 @@
 | medline_ta      | Cell Tissue Res                                                                             |
 | journal_nlm_id  | 0417625                                                                                      |
 | indexer_id      | 100                                                                                         |
+
+
+
+
+| Column           | Content                                                                                       |
+|------------------|-----------------------------------------------------------------------------------------------|
+| pmid             | 34621514                                                                                      |
+| query_id         | 1                                                                                             |
+| orcid_list       | 0000-0002-2432-7564, 0000-0003-1704-1135                                                      |
+| reviewer_id_list | 1, 1148                                                                                       |
+| title            | rmcorrShiny: A web and standalone application for repeated measures correlation.              |
+| abstract         | We describe a web and standalone Shiny app for calculating the common, linear within-individual... |
+| pub_date         | 2021                                                                                          |
+
