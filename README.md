@@ -85,3 +85,11 @@
 
 
 
+| Column   | Content                                                                                       |
+|----------|-----------------------------------------------------------------------------------------------|
+| paper    | 3080422828                                                                                    |
+| title    | learning effective road network representation with hierarchical graph neural networks       |
+| year     | 2020                                                                                          |
+| abstract | road network is the core component of urban transportation, and it is widely useful...        |
+
+
