@@ -49,7 +49,7 @@
 | Column    | Content                                                                                                                                                                                                 |
 |-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Paper ID  | 34950453                                                                                                                                                                                                |
-| Authors   | Hardi, Esti Handayani, 0000-0002-4660-7532 <br> Saptiani, Gina, 0000-0002-2107-4856 <br> Nugroho, Rudi Agung, 0000-0001-9006-7329 <br> Rahman, fadlul, null <br> Sulistyawati, Sulistyawati, null <br> Rahayu, Widyaningsih, null <br> Supriansyah, Ali, null <br> Kusuma, Irawan Wijaya, null |
+| Reviewers   | Hardi, Esti Handayani, 0000-0002-4660-7532 <br> Saptiani, Gina, 0000-0002-2107-4856 <br> Nugroho, Rudi Agung, 0000-0001-9006-7329 <br> Rahman, fadlul, null <br> Sulistyawati, Sulistyawati, null <br> Rahayu, Widyaningsih, null <br> Supriansyah, Ali, null <br> Kusuma, Irawan Wijaya, null |
 
 
 
