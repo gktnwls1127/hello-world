@@ -46,9 +46,15 @@
 
 
 
-| Column    | Content                     |
-|-----------|-----------------------------|
-| surname   | Hardi                       |
-| given_names | Esti Handayani            |
-| orcid     | 0000-0002-4660-7532         |
+| Paper ID | Surname     | Given Names     | ORCID                |
+|----------|-------------|-----------------|----------------------|
+| 34950453 | Hardi       | Esti Handayani  | 0000-0002-4660-7532  |
+| 34950453 | Saptiani    | Gina            | 0000-0002-2107-4856  |
+| 34950453 | Nugroho     | Rudi Agung      | 0000-0001-9006-7329  |
+| Rahman      | fadlul          | null                 |
+| Sulistyawati| Sulistyawati    | null                 |
+| Rahayu      | Widyaningsih    | null                 |
+| Supriansyah | Ali             | null                 |
+| Kusuma      | Irawan Wijaya   | null                 |
+
 
