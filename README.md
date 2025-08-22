@@ -19,6 +19,9 @@
 | medline_ta      | Cell Tissue Res                                                                             |
 | journal_nlm_id  | 0417625                                                                                      |
 | indexer_id      | 100                                                                                         |
+<br>
+<br>
+<br>
 
 
 
@@ -32,4 +35,20 @@
 | title            | rmcorrShiny: A web and standalone application for repeated measures correlation.              |
 | abstract         | We describe a web and standalone Shiny app for calculating the common, linear within-individual... |
 | pub_date         | 2021                                                                                          |
+
+
+<br>
+<br>
+<br>
+
+
+
+
+
+
+| Column    | Content                     |
+|-----------|-----------------------------|
+| surname   | Hardi                       |
+| given_names | Esti Handayani            |
+| orcid     | 0000-0002-4660-7532         |
 
