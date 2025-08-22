@@ -19,6 +19,7 @@
 | medline_ta      | Cell Tissue Res                                                                             |
 | journal_nlm_id  | 0417625                                                                                      |
 | indexer_id      | 100                                                                                         |
+
 <br>
 <br>
 <br>
@@ -68,6 +69,7 @@
 <br>
 <br>
 <br>
+
 | Column       | Content                                                                                       |
 | ------------ | --------------------------------------------------------------------------------------------- |
 | surname      | Aarts                                                                                         |
