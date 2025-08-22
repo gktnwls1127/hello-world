@@ -15,7 +15,6 @@
 | indexing_method | human                                                                                       |
 | date_completed  | 2015-10-02                                                                                  |
 | title           | Crustacean hyperglycaemic hormone in the nervous system of the primitive crustacean species... |
-| vernacular_title| ""                                                                                          |
 | abstract        | Crustacean hyperglycaemic hormone-immunoreactive neuronal systems are detected...            |
 | medline_ta      | Cell Tissue Res                                                                             |
 | journal_nlm_id  | 0417625                                                                                      |
