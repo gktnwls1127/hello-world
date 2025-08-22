@@ -58,3 +58,28 @@
 | 34950453 | Kusuma      | Irawan Wijaya   | null                 |
 
 
+
+
+
+
+
+
+
+<br>
+<br>
+<br>
+| Column       | Content                                                                                       |
+| ------------ | --------------------------------------------------------------------------------------------- |
+| surname      | Aarts                                                                                         |
+| given\_names | Ermke                                                                                         |
+| orcid        | 0000-0002-2432-7564                                                                           |
+| reviewer\_id | 1                                                                                             |
+| title        | Insensitivity to Losses: A Core Feature in Patients With Anorexia Nervosa?                    |
+| pmid         | 31262707                                                                                      |
+| year         | 2019                                                                                          |
+| journal      | Biological Psychiatry: Cognitive Neuroscience and Neuroimaging                                |
+| abstract     | BACKGROUND: Patients with anorexia nervosa (AN) demonstrate aberrations in choice behavior... |
+| pub\_date    | 2019-11                                                                                       |
+
+
+
