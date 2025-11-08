@@ -14,6 +14,16 @@
 <br>2 160713 31550 42611 51896 54573 69161 77281 80243 81063 83741 85046 85718 96744 107742 112680 118141 120636 128112 131503 137566 150259 158128 166354 174081 176874
 <br>
 
+| Column          | Content                                                                                                                                                                                                                                                                   |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| _id       | 61e28d3c67e0e83e7e201d6b                                                                                                                                                                                                                                                  |
+| name        | Takemi Otsuki                                                                                                                                                                                                                                                             |
+| url         | [https://loop.frontiersin.org/people/311974/overview](https://loop.frontiersin.org/people/311974/overview)                                                                                                                                                                |
+| specialty   | Domain: Science → Field: Toxicology → Specialty: Immunotoxicology                                                                                                                                                                                                         |
+| expertise   | Asbestos, transcription factor, FoxO1, Regulatory T-cell, T cell, NK cell, silica, Living environment, Regulatory T Cell, Immunology Fas, CTLA-4, IL-10, TGF-β1, biomarker, cytokine, immune cells, tumor immunity, Cell surface marker, CXCR3, IL-17, Th17, interferon γ |
+| affiliation | Kawasaki Medical School, Kurashiki, Okayama, Japan                                                                                                                                                                                                                        |
+
+
 
 
 
